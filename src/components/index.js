@@ -7,7 +7,7 @@ import Input from './Input'
 import RTE from './RTE'
 import Button from './Header/Button'
 import Select from "./Header/Select"
-import Signup from "./SignUp"
+import Signup from "./Signup"
 import Login from "./Login"
 import PostForm from "./PostForm/PostForm"
 import PostCard from './PostCard'
