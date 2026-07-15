@@ -119,18 +119,6 @@ VITE_TINYMCE_API_KEY=YOUR_TINYMCE_API_ID
 
 ---
 
-## Screenshots
-
-Add screenshots of your application here, such as:
-
-- Home Page
-- Login Page
-- Signup Page
-- Create Post
-- All Posts
-- Single Post
-
----
 
 ## Pages
 
