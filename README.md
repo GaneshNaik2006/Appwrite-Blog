@@ -1,4 +1,4 @@
-# MegaBlog
+# Appwrite Blog
 
 A modern full-stack blogging platform built with **React**, **Redux Toolkit**, **Appwrite**, **TinyMCE**, and **Tailwind CSS**. Users can securely sign up, log in, create, edit, delete, and manage blog posts with image uploads and a rich text editor.
 
@@ -81,13 +81,13 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MegaBlog.git
+git clone https://github.com/YOUR_USERNAME/Appwrite-Blog.git
 ```
 
 Navigate to the project directory
 
 ```bash
-cd MegaBlog
+cd Appwrite-Blog
 ```
 
 Install dependencies
@@ -114,6 +114,7 @@ VITE_APPWRITE_PROJECT_ID=YOUR_PROJECT_ID
 VITE_APPWRITE_DATABASE_ID=YOUR_DATABASE_ID
 VITE_APPWRITE_COLLECTION_ID=YOUR_TABLE_ID
 VITE_APPWRITE_BUCKET_ID=YOUR_BUCKET_ID
+VITE_TINYMCE_API_KEY=YOUR_TINYMCE_API_ID
 ```
 
 ---
