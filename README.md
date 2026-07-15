@@ -3,7 +3,13 @@
 A modern full-stack blogging platform built with **React**, **Redux Toolkit**, **Appwrite**, **TinyMCE**, and **Tailwind CSS**. Users can securely sign up, log in, create, edit, delete, and manage blog posts with image uploads and a rich text editor.
 
 ---
+## Live Demo
 
+Visit the live website here:
+
+**Website:** https://appwrite-blog-nu-nine.vercel.app/
+
+---
 ## Features
 
 - User Authentication (Signup/Login/Logout)
